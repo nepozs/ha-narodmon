@@ -1,0 +1,19 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Integracja z chmurą Narodmon.ru",
+                "description": "Jeśli potrzebujesz pomocy przy konfiguracji zajrzyj tutaj: https://github.com/Limych/ha-narodmon",
+                "data": {
+                    "apikey": "Klucz API"
+                }
+            }
+        },
+        "error": {
+            "auth": "Klucz API jest nieprawidłowy."
+        },
+        "abort": {
+            "single_instance_allowed": "Dozwolona jest tylko jedna konfiguracja Narodmon.ru"
+        }
+    }
+}
